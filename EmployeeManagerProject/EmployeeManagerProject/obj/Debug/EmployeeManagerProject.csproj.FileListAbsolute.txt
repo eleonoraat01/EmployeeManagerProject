@@ -1,0 +1,12 @@
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe.config
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.exe
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\bin\Debug\EmployeeManagerProject.pdb
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AboutTheAuthorForm.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.Properties.Resources.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.GenerateResource.cache
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.exe
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.pdb
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.StartForm.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.AddEmployeeForm.resources
+C:\Users\jivko\source\repos\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csprojAssemblyReference.cache
